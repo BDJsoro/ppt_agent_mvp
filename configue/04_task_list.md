@@ -4,9 +4,9 @@
 
 ## Phase 1: 기반 인프라 세팅 및 사용자 인증 (Setup & Auth)
 - [x] Next.js (프론트엔드) 스캐폴딩 및 Tailwind CSS, UI 라이브러리(shadcn 등) 설치
-- [ ] FastAPI (백엔드) 통합 환경 세팅 (CORS 처리 및 REST 라우팅 구조 확립)
-- [ ] Supabase 프로젝트 생성 및 DB 구조 설계 (유저 정보, 템플릿 목록, 히스토리 테이블)
-- [ ] 사용자 회원가입/로그인 (Supabase Auth) 연동 및 프론트/백엔드 토큰 검증
+- [x] FastAPI (백엔드) 통합 환경 세팅 (CORS 처리 및 REST 라우팅 구조 확립)
+- [x] Supabase 프로젝트 생성 및 DB 구조 설계 (유저 정보, 템플릿 목록, 히스토리 테이블)
+- [x] 사용자 회원가입/로그인 (Supabase Auth) 연동 및 프론트/백엔드 토큰 검증
 - [ ] Supabase Storage 세팅 완료 (원본 `.pptx` 템플릿 파일 업로드용 버킷)
 
 ## Phase 2: 코어 모듈 구현 (AI 리서치 + 파워포인트 생성)
