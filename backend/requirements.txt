@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-pptx
+celery
+redis
+python-multipart
+supabase
+pydantic
